@@ -1,0 +1,284 @@
+<div><div>
+<div style="font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div style="font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta name="x-apple-disable-message-reformatting">
+<meta content="IE=edge">
+<meta content="telephone=no" name="format-detection">
+<link href="https://fonts.googleapis.com/css?family=Noticia+Text:400,400i,700,700i" rel="stylesheet">
+<div class="es-wrapper-color" style="background-color:#FFFFFF">
+<table data-imagetype="External" background="https://pxcjb.stripocdn.email/content/guids/CABINET_957ce763cae859fad048c7a10c593d8a/images/9661552606264088.png" class="es-wrapper" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0px; padding:0; margin:0; width:100%; height:100%; background-repeat:repeat; background-position:center top; background-image:url(https://us.123rf.com/450wm/natalushka1/natalushka11704/natalushka1170400013/75913886-pattern-of-flowers-pansies-on-a-green-background.jpg?ver=6)">
+<tbody>
+<tr style="border-collapse:collapse">
+<td valign="top" style="padding:0; margin:0">
+<table class="es-content" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; border-spacing:0px; table-layout:fixed!important; width:100%">
+<tbody>
+<tr style="border-collapse:collapse">
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0; margin:0">
+<table class="es-content-body" width="600" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; border-spacing:0px; background-color:transparent">
+<tbody>
+<tr style="border-collapse:collapse">
+<td align="left" style="margin:0; padding-top:10px; padding-bottom:10px; padding-left:20px; padding-right:20px">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0px">
+<tbody>
+<tr style="border-collapse:collapse">
+<td width="560" valign="top" align="center" style="padding:0; margin:0">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0px">
+<tbody>
+<tr style="border-collapse:collapse">
+<td class="es-m-txt-c" align="center" style="padding:0; margin:0"><br>
+<img src="https://pxcjb.stripocdn.email/content/guids/CABINET_957ce763cae859fad048c7a10c593d8a/images/63231553517803978.png" alt="SB logo" title="SB logo" width="213" style="display: block;" class="a6T" tabindex="0"><br>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="es-content" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; border-spacing:0px; width:100%; table-layout:fixed!important; text-align:left">
+<tbody>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0px; margin:0px; background-position:left top; text-align:left">
+<table class="es-content-body" width="600" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" style="border-collapse:collapse; border-spacing:0px; background-color:rgb(255,255,255); text-align:left">
+<tbody>
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0; margin:0">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0px">
+<tbody>
+<tr style="border-collapse:collapse">
+<td width="600" valign="top" align="center" style="padding:0; margin:0">
+<table width="" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0px">
+<tbody>
+<tr style="border-collapse:collapse">
+<td bgcolor="#ffffff" align="left" style="margin:0px; padding:30px 35px; width:640px; text-align:left">
+<h1 style="margin:0; line-height:41px; font-family:'noticia text',georgia,'times new roman',serif; font-size:34px; font-style:normal; font-weight:normal; color:#008000; text-align:left">
+Hello %1$s!</h1>
+<p style="margin-top: 0px; margin-bottom: 0px;margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin:0; font-size:14px; font-family:arial,'helvetica neue',helvetica,sans-serif; line-height:21px; color:rgb(0,0,0)">
+<br>
+</p>
+<h3 style="margin:0; line-height:23px; font-family:arial,'helvetica neue',helvetica,sans-serif; font-size:19px; font-style:normal; font-weight:normal; color:rgb(0,0,0); text-align:left">
+<span style="font-family:georgia,times,&quot;times new roman&quot;,serif; font-size:16pt; line-height:normal; color:rgb(0,0,0)">
+<div style = "color:rgb(0,0,0)">I`m glad to inform you, that your order has been shipped.<br>
+</div>
+<div><br>
+Your tracking number is <span style="font-size:18pt">%2$s</span><br>
+</div>
+<div><br>
+</div>
+<div><span style = "color:rgb(0,0,0)">If you have any questions, feel free to contact me!</span></div>
+<div><br>
+</div>
+<div>
+<table width="100%" style="font-size:16px; font-family:Calibri,Arial,Helvetica,sans-serif; color:rgb(0,0,0); background-color:rgb(255,255,255); border-collapse:collapse; border-spacing:0px">
+<tbody>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0px 0px 10px; margin:0px; text-align:left">
+<div style="text-align:left; margin:0px; font-size:21px; line-height:32px; font-family:georgia,times,&quot;times new roman&quot;,serif; color:rgb(0,0,0)">
+<span style="margin:0px">Here is a link to get tracking information through Postal Provider:</span><br>
+</div>
+</td>
+</tr>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:10px 10px 0px; margin:0px"><span style="margin:0px; border:0px solid rgb(231,232,233); background:rgb(56,118,29); display:inline-block; border-radius:0px; width:auto"><a href="%3$s" target="_blank" style="margin:0px; border-width:10px 20px; border-style:solid; border-color:rgb(56,118,29); font-weight:normal; font-size:24px; line-height:29px; font-family:georgia,times,&quot;times new roman&quot;,serif; color:rgb(255,255,255); display:inline-block; background:rgb(56,118,29); border-radius:0px; width:auto; text-align:center; text-decoration:none!important">Tracking
+ info</a><span>&nbsp;</span></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</span></h3>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="border-collapse:collapse">
+</tr>
+<tr style="border-collapse:collapse">
+<td align="left" style="margin:0; padding-top:10px; padding-left:30px; padding-right:20px; padding-bottom:40px">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0px">
+<tbody>
+<tr style="border-collapse:collapse">
+<td width="560" align="left" style="padding:0; margin:0">
+<table width="100%" cellspacing="0" cellpadding="0" bgcolor="#ffecec" style="border-collapse:collapse; border-spacing:0px; background-color:#FFECEC">
+<tbody>
+<tr style="border-collapse:collapse">
+<td align="left" bgcolor="#ffffff" style="padding:0; margin:0">
+<p style="margin-top: 0px; margin-bottom: 0px;margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin:0; font-size:28px; font-family:'noticia text',georgia,'times new roman',serif; line-height:42px; color:#008000">
+Kindest regards,</p>
+<p style="margin-top: 0px; margin-bottom: 0px;margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin:0; font-size:28px; font-family:'noticia text',georgia,'times new roman',serif; line-height:42px; color:#008000">
+Marina</p>
+<p style="margin-top: 0px; margin-bottom: 0px;margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin:0; font-size:18px; font-family:georgia,times,'times new roman',serif; line-height:27px; color:#000000">
+Assistant of SHOPBAGsUA store on Etsy.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="es-footer" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; border-spacing:0px; table-layout:fixed!important; width:100%; background-color:transparent; background-repeat:repeat; background-position:center top">
+<tbody>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0; margin:0">
+<table class="es-footer-body" width="640" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; border-spacing:0px; background-color:transparent">
+<tbody>
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0; margin:0">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0px">
+<tbody>
+<tr style="border-collapse:collapse">
+<td width="600" valign="top" align="center" style="padding:0; margin:0">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0px; background-position:left top">
+<tbody>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0; margin:0; padding-top:10px; padding-left:10px; padding-right:10px">
+<p style="margin-top: 0px; margin-bottom: 0px;margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin:0; font-size:14px; font-family:georgia,times,'times new roman',serif; line-height:21px; color:#FFFFFF">
+<br>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px;margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin:0; font-size:14px; font-family:georgia,times,'times new roman',serif; line-height:21px; color:#FFFFFF">
+<br>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px;margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin:0; font-size:14px; font-family:georgia,times,'times new roman',serif; line-height:21px; color:#000000">
+You are receiving this email because you make an order in SHOPBAGsUA store on Etsy platform. If you have any questions, you can reply on this message or send it to me through Etsy, click
+<a target="_blank" href="https://www.etsy.com/shop/SHOPBAGsUA" style="font-family:georgia,times,'times new roman',serif; font-size:14px; text-decoration:underline; color:#000000">
+here</a>.</p>
+<p style="margin-top: 0px; margin-bottom: 0px;margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin:0; font-size:14px; font-family:georgia,times,'times new roman',serif; line-height:21px; color:#000000">
+©SHOPBAGsUA</p>
+<p style="margin-top: 0px; margin-bottom: 0px;margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin-top:0px; margin-bottom:0px; margin:0; font-size:14px; font-family:georgia,times,'times new roman',serif; line-height:21px; color:#000000">
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div style="font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="appendonsend"></div>
+<div style="font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+</div>
+<div dir="ltr">
+<div style="font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div style="font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<div class="x_es-wrapper-color" style="background-color:#FFFFFF">
+<table data-imagetype="External" background="https://pxcjb.stripocdn.email/content/guids/CABINET_957ce763cae859fad048c7a10c593d8a/images/9661552606264088.png" class="x_es-wrapper" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0px; padding:0; margin:0; width:100%; height:100%; background-repeat:repeat; background-position:center top; background-image:url(https://us.123rf.com/450wm/natalushka1/natalushka11704/natalushka1170400013/75913886-pattern-of-flowers-pansies-on-a-green-background.jpg?ver=6)">
+<tbody>
+<tr style="border-collapse:collapse">
+<td valign="top" style="padding:0; margin:0">
+<table class="x_es-footer" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; border-spacing:0px; table-layout:fixed!important; width:100%; background-color:transparent; background-repeat:repeat; background-position:center top">
+<tbody>
+<tr style="border-collapse:collapse">
+<td align="center" style="padding:0; margin:0">
+<table class="x_es-footer-body" width="640" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; border-spacing:0px; background-color:transparent">
+<tbody>
+<tr style="border-collapse:collapse">
+<td align="left" style="padding:0; margin:0">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0px">
+<tbody>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div style="font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<link href="https://fonts.googleapis.com/css?family=Noticia+Text:400,400i,700,700i" rel="stylesheet"></div>
+
+
+</div>
