@@ -4,7 +4,7 @@ import java.util.List;
 
 import static com.emailSender.functions.SenderEmail.*;
 
-public class entireMessage {
+public class EntireMessage {
 
     SenderEmail send = new SenderEmail();
 

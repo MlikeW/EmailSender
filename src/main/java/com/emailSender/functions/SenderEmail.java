@@ -68,7 +68,7 @@ public class SenderEmail {
     public static void sendingMes(String file){
 
         ReaderFromConsole console = new ReaderFromConsole();
-        entireMessage entire = new entireMessage();
+        EntireMessage entire = new EntireMessage();
         List<String> clientMail = new ArrayList<>();
 
         System.out.println(BORDER + MES_COUNT);
