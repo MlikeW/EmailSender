@@ -28,5 +28,5 @@ Html-templates files paths; and all output messages.
 ## **ShippingNameTrackingRegionclass:**
 *sendingMessages(String fileName, String email, String name, String tracking, String post)* -- it takes name, tracking, link for postal provider, choose a link of postal provider, re-create template, and give it to _pushingMes_.
     
-_____Update-(31/03/2019)_____
-Move folder **files** with messages templates to main project folder, so now much easier make a **.jar** file. Also adding a **.zip** archive, like "how create a working **.jar** (it needs you templates, so it has to be near them)" :)
+###### **Update-(31/03/2019)** ######
+Move folder **files** with messages templates to main project folder, so now much easier to make a **.jar**(it needs your templates, so it has to be near them and in folder **files**) file :)
