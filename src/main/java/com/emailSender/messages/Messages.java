@@ -18,7 +18,7 @@ public class Messages {
             "Please choose a kind of your future message:  ";
     public static final String PROCESS = "Processing...";
 
-    public static final String THEME = "Your order in SHOPBAGsUA store on Etsy.";
+    public static final String THEME = "Your order in SHOPBAGsUA store on Etsy."; //put here the theme of your messages.
 
     public static final String POST_MAIN = "http://ukrposhta.ua/en/vidslidkuvati-forma-poshuku";
     public static final String POST_UKR = "https://tools.usps.com/go/TrackConfirmAction_input";
@@ -37,8 +37,8 @@ public class Messages {
         return MY_PASSWORD;
     }
 
-    public static final String FILE_ACCEPT = "src/main/java/com/emailSender/files/Accept.txt";
-    public static final String FILE_REVIEW = "src/main/java/com/emailSender/files/reviewCareInstruction.txt";
-    public static final String FILE_CLARIFY = "src/main/java/com/emailSender/files/Clarify.txt";
-    public static final String FILE_SHIP = "src/main/java/com/emailSender/files/Shipping.txt";
+    public static final String FILE_ACCEPT = "files/Accept.txt";
+    public static final String FILE_REVIEW = "files/reviewCareInstruction.txt";
+    public static final String FILE_CLARIFY = "files/Clarify.txt";
+    public static final String FILE_SHIP = "files/Shipping.txt";
 }
