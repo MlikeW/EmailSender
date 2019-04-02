@@ -26,7 +26,11 @@ Html-templates files paths; and all output messages.
 ## **EntireMessage.class:**
 *sendingMes(String fileName, List<String> clientMail)* -- it takes template path, list of clients email, and for every element from list, using _pushingMes_ send same template, to each email.
 ## **ShippingNameTrackingRegionclass:**
-*sendingMessages(String fileName, String email, String name, String tracking, String post)* -- it takes name, tracking, link for postal provider, choose a link of postal provider, re-create template, and give it to _pushingMes_.
-    
-###### **Update-(31/03/2019)** ######
+*sendingMessages(String fileName, List<String> email, List<String> name, List<String> tracking, List<String> post)* -- it takes name, tracking, link for postal provider, choose a link of postal provider, re-create template, and give it to _pushingMes_.
+
+     
+#### **Update-(31/03/2019)** ####
 Move folder **files** with messages templates to main project folder, so now much easier to make a **.jar**(it needs your templates, so it has to be near them and in folder **files**) file :)
+    
+#### **Update-(02/04/2019)** ####
+Restructure sending **Shipping** messages

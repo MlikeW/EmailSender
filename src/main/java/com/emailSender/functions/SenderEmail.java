@@ -103,10 +103,12 @@ public class SenderEmail {
             clientTracking.add(console.read());
             System.out.println((i + 1) + MES_REGION);
             clientRegion.add(console.read());
-            System.out.println(BORDER);
-            System.err.println(PROCESS);
-            ship.sendingMes(FILE_SHIP, clientMail.get(i), clientName.get(i), clientTracking.get(i), clientRegion.get(i));
+            System.out.println(BORDER2);
         }
+
+        ship.sendingMes(FILE_SHIP, clientMail, clientName, clientTracking, clientRegion);
+        System.out.println(BORDER);
+        System.err.println(PROCESS);
 
     }
 

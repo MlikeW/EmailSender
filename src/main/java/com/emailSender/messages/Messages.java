@@ -7,6 +7,7 @@ public class Messages {
     private static final String MY_PASSWORD = ""; //put here password to your email
 
     public static final String BORDER = "___________________________________________________\n";
+    public static final String BORDER2 = "- - - - - - - - - - - - - - - - - - - - - - - - - - \n";
 
     public static final String WELCOME = "Welcome Stranger!";
     public static final String MENU = "Here is what can I do:\n" +
@@ -20,8 +21,8 @@ public class Messages {
 
     public static final String THEME = "Your order in SHOPBAGsUA store on Etsy."; //put here the theme of your messages.
 
-    public static final String POST_MAIN = "http://ukrposhta.ua/en/vidslidkuvati-forma-poshuku";
-    public static final String POST_UKR = "https://tools.usps.com/go/TrackConfirmAction_input";
+    public static final String POST_MAIN = "https://tools.usps.com/go/TrackConfirmAction_input";
+    public static final String POST_UKR = "http://ukrposhta.ua/en/vidslidkuvati-forma-poshuku";
 
     public static final String MES_COUNT = "How many emails you will use?";
     public static final String MES_EMAIL =    " - email: ";
